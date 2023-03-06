@@ -253,7 +253,7 @@
     <!-- Team End -->
 
 
-    <!-- Newsletter Start -->
+    <!-- Newsletter Start
     <div class="container-fluid position-relative pt-5 wow fadeInUp" data-wow-delay="0.1s" style="z-index: 1;">
         <div class="container">
             <div class="bg-primary p-5">
